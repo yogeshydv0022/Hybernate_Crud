@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.bg-background
+{
+	background-color: lightsteelblue;
+   /* backdrop-filter: blur(10px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.35);*/
+}
